@@ -19,12 +19,22 @@ How much time does it take for an algorithm to run as the input size grows? How 
     </item>
     
     <item>
-      <title>About Us</title>
-      <link>/about%20us/</link>
+      <title></title>
+      <link>/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about%20us/</guid>
-      <description>about us</description>
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about_us/</guid>
+      <description>Welcome to Dustrad, your go-to destination for research, news, best practices, and insights in the fascinating realms of software development, data science, machine learning, and deep learning.
+Our Mission At Dustrad, our mission is to provide you with a reliable source of information and knowledge in the ever-evolving fields of data science and artificial intelligence. We are passionate about exploring the frontiers of technology and uncovering the latest trends, breakthroughs, and applications in these exciting domains.</description>
     </item>
     
   </channel>
