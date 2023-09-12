@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: en-us
 title: DUSTRAD - demo
-theme: /github.com/JavierBetancurth/HugoBlogDustrad/themes/PaperMod/
+theme: PaperMod
 
 menu:
   main:
