@@ -8,8 +8,6 @@ cover:
     caption: "Wes Cockx - Visualising AI project by Google DeepMind."
 ---
 
-
-
 # Introduction
 
 ![Computational_Complexity_1](/data/images/google-deepmind-2ufXB-oAyG0-unsplash.jpg "Google DeepMind")
