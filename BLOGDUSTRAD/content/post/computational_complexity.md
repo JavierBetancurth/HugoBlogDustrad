@@ -1,8 +1,12 @@
-+++
-title = 'Computational Complexity'
-date = 2023-09-12T09:16:02-05:00
-draft = false
-+++
+---
+title: 'Computational Complexity'
+date: 2023-09-12T09:16:02-05:00
+draft: false
+cover:
+    image: "/images/google-deepmind-2ufXB-oAyG0-unsplash.jpg"
+    alt: "ALGO"
+    caption: "Wes Cockx - Visualising AI project by Google DeepMind."
+---
 
 # Introduction
 
