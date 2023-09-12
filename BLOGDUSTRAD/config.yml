@@ -2,3 +2,22 @@ baseURL: ""
 languageCode: en-us
 title: DUSTRAD - demo
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: about_us
+      name: About Us
+      url: /about_us/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
