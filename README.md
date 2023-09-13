@@ -1,1 +1,1 @@
-BLOG DUSTRAD 
+Main contributor to BLOG DUSTRAD project 
