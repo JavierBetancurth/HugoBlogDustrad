@@ -6,7 +6,16 @@
     <description>Recent content on DUSTRAD - demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2023 09:16:02 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 09:15:02 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sorting Algorithms</title>
+      <link>/post/sorting_algorithms/</link>
+      <pubDate>Wed, 13 Sep 2023 09:15:02 -0500</pubDate>
+      
+      <guid>/post/sorting_algorithms/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Computational Complexity</title>
       <link>/post/computational_complexity/</link>
