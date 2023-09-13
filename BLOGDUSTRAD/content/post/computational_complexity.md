@@ -10,8 +10,6 @@ cover:
 
 # Introduction
 
-![Computational_Complexity_1](/data/images/google-deepmind-2ufXB-oAyG0-unsplash.jpg "Google DeepMind")
-
 Computational complexity is a fundamental concept in computer science that deals with understanding the resources required by algorithms to solve computational problems. It helps us analyze and classify problems based on their inherent difficulty and the efficiency of potential solutions.
 
 In this field, we aim to answer questions such as:
