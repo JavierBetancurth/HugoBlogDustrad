@@ -1,3 +1,4 @@
+# Se debe configurar el tema de DUSTRAD
 [submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+    path = themes/PaperMod
+    url = ../themes/PaperMod
