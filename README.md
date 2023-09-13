@@ -1,6 +1,6 @@
 ## BLOG DUSTRAD 
 
-Research: Our dedicated team of experts and enthusiasts is committed to conducting in-depth research to keep you informed about the latest developments, emerging technologies, and advancements in data science, machine learning, and deep learning.
+Our dedicated team of experts and enthusiasts is committed to conducting in-depth research to keep you informed about the latest developments, emerging technologies, and advancements in data science, machine learning, and deep learning.
 
 - News: Stay up-to-date with the most relevant news stories and events in the world of data science and AI. We curate and deliver the most important happenings directly to you.
 
