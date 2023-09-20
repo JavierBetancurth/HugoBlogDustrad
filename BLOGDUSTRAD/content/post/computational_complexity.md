@@ -3,7 +3,7 @@ title: 'Computational Complexity'
 date: 2023-09-12T09:16:02-05:00
 draft: false
 cover:
-    image: "static\images\Computational_Complexity\google-deepmind-2ufXB-oAyG0-unsplash.jpg"
+    image: "\images\Computational_Complexity\google-deepmind-2ufXB-oAyG0-unsplash.jpg"
     alt: "Computational Complexity"
     caption: "Wes Cockx - Visualising AI project by Google DeepMind."
 ---
